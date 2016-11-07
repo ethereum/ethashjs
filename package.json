@@ -30,7 +30,7 @@
   "dependencies": {
     "async": "^1.4.2",
     "buffer-xor": "^1.0.3",
-    "ethereumjs-util": "^4.0.1",
+    "ethereumjs-util": "^5.0.0",
     "miller-rabin": "^4.0.0"
   },
   "devDependencies": {
